@@ -23,7 +23,7 @@ This project is built using **HTML, CSS, and JavaScript**, making it a great beg
 ---
 
 ## Project Structure
-Color-Beat-Game/
+colorbeat-game
 │
 ├── index.html       # Main HTML file
 ├── style.css        # Game UI styling
