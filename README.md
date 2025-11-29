@@ -1,8 +1,10 @@
-# ColorBeat – Memory Sequence Game
+# Color Beat – Memory Sequence Game
 
-**ColorBeat** is a fun and interactive memory game inspired by the classic **Simon Game**.  
-The game generates a color sequence, and the player must repeat it correctly.  
-Each correct round increases the level and adds one more color to the sequence.
+# Color Beat 
+A fun memory-based color game inspired by the classic Simon Game. 
+Built using HTML, CSS, and JavaScript. 
+Play the game, follow the pattern, and test your memory!
+
 
 This project is built using **HTML, CSS, and JavaScript**, making it a great beginner-friendly frontend mini-project.
 
@@ -20,7 +22,8 @@ This project is built using **HTML, CSS, and JavaScript**, making it a great beg
 ---
 
 ## Live Demo  
-**https://Gajaradevi.github.io/colorbeat**
+Demo: **https://Gajaradevi.github.io/colorbeat**
+Repository: **https://github.com/Gajaradevi/colorbeat**
 
 ---
 
